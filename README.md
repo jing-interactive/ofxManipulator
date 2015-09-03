@@ -23,12 +23,12 @@ Examples
 
 ### [example-ofxManipulator-SnowdenBust](https://github.com/ofnode/example-ofxManipulator-SnowdenBust)
 
-![](https://github.com/ofnode/example-ofxManipulator-SnowdenBust/tree/master/gifs/translation-1.gif)
-![](https://github.com/ofnode/example-ofxManipulator-SnowdenBust/tree/master/gifs/translation-2.gif)
-![](https://github.com/ofnode/example-ofxManipulator-SnowdenBust/tree/master/gifs/rotation-1.gif)
-![](https://github.com/ofnode/example-ofxManipulator-SnowdenBust/tree/master/gifs/rotation-2.gif)
-![](https://github.com/ofnode/example-ofxManipulator-SnowdenBust/tree/master/gifs/scale-1.gif)
-![](https://github.com/ofnode/example-ofxManipulator-SnowdenBust/tree/master/gifs/scale-2.gif)
+![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/translation-1.gif)
+![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/translation-2.gif)
+![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/rotation-1.gif)
+![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/rotation-2.gif)
+![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/scale-1.gif)
+![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/scale-2.gif)
 
 
 Compiling
