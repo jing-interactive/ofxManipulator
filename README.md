@@ -23,9 +23,9 @@ Examples
 
 ### [example-ofxManipulator-SnowdenBust](https://github.com/ofnode/example-ofxManipulator-SnowdenBust)
 
-![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/translation-1.gif)![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/translation-2.gif)
-![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/rotation-1.gif)![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/rotation-2.gif)
-![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/scale-1.gif)![](https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/scale-2.gif)
+<img src="https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/translation-1.gif" width="48%"><img src="https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/translation-2.gif" width="48%">
+<img src="https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/rotation-1.gif" width="48%"><img src="https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/rotation-2.gif" width="48%">
+<img src="https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/scale-1.gif" width="48%"><img src="https://raw.githubusercontent.com/ofnode/example-ofxManipulator-SnowdenBust/master/gifs/scale-2.gif" width="48%">
 
 
 Compiling
