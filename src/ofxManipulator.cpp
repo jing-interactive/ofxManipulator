@@ -42,6 +42,7 @@ void ofxManipulator::draw(ofCamera cam)
 {
   ofPushStyle();
 
+  ofFill();
   ofDisableDepthTest();
 
   m_view = cam.getModelViewMatrix();
